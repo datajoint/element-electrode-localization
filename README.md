@@ -29,7 +29,7 @@ environment and notebooks to overview the pipeline.
 
 + [Interactive tutorial on GitHub Codespaces](https://github.com/datajoint/element-electrode-localization#interactive-tutorial)
 
-+ [Documentation](https://datajoint.com/docs/elements/element-electrode-localization)
++ [Documentation](https://docs.datajoint.com/elements/element-electrode-localization/)
 
 ## Support
 
