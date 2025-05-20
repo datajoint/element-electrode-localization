@@ -1,7 +1,7 @@
 --- # ---------------------- PROJECT SPECIFIC ---------------------------
 
 site_name: DataJoint Documentation
-site_url: http://localhost/docs/elements/element-electrode-localization
+site_url: https://docs.datajoint.com/elements/element-electrode-localization/
 repo_url: https://github.com/datajoint/element-electrode-localization
 repo_name: datajoint/element-electrode-localization
 nav:

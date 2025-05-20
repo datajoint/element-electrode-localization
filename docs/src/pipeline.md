@@ -14,7 +14,7 @@ The Element is separated into two schemas:
   codes.
 
 + `electrode_localization` pairs the above reference tables with Neuropixels electrode
-  location data from the Element Array Ephys [probe schema](https://datajoint.com/docs/elements/element-array-ephys/0.2/concepts/#probe-schema-api-docs).
+  location data from the Element Array Ephys [probe schema](https://docs.datajoint.com/elements/element-array-ephys/latest/concepts/#probe-schema-api-docs).
 
 ## `coordinate_framework` schema ([API docs](../api/element_electrode_localization/coordinate_framework))
 
